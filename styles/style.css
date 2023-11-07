@@ -40,11 +40,7 @@
   gap: 12px;
 }
 
-.header__menu-item {
-  min-height: 20px;
-}
-
-.header__menu-item_active {
+.header__menu-link_active {
   text-decoration: none;
 }
 
